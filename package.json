@@ -1,0 +1,24 @@
+{
+  "name": "playwright-activity",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pewee-qa/playwright-activity.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pewee-qa/playwright-activity/issues"
+  },
+  "homepage": "https://github.com/pewee-qa/playwright-activity#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.29.0"
+  },
+  "dependencies": {
+    "chance": "^1.1.9"
+  }
+}

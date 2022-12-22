@@ -1,0 +1,14 @@
+{
+  "baseUrl": "localhost:4200/",
+   "invalidEmail": "pewee.com",
+  "invalidEmailMessage": "Please enter a valid email address",
+  "OTP": "0",
+  "SuccessfulRegistration": "Workspace Created",
+  "OTPSent": "OTP Successfully sent",
+  "workspace": "a",
+  "widgetURL": "localhost:4400/",
+  "OTPCode": "0",
+  "CreateAcctMail": "sample@email.com",
+  "AcctCreated": "Account Created",
+  "Group": "Group A"
+}
