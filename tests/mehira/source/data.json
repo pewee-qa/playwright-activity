@@ -10,5 +10,7 @@
   "OTPCode": "0",
   "CreateAcctMail": "sample@email.com",
   "AcctCreated": "Account Created",
-  "Group": "Group A"
+  "Group": "Group A",
+  "description": "random group members",
+  "promptMessage": "Group Created Successfully"
 }
