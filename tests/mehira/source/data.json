@@ -12,5 +12,7 @@
   "AcctCreated": "Account Created",
   "Group": "Group A",
   "description": "random group members",
-  "promptMessage": "Group Created Successfully"
+  "promptMessage": "Group Created Successfully",
+  "displayMessage": "Group details",
+  "Groupdetails": "Group details"
 }
