@@ -14,5 +14,6 @@
   "description": "random group members",
   "promptMessage": "Group Created Successfully",
   "displayMessage": "Group details",
-  "Groupdetails": "Group details"
+  "Groupdetails": "Group details",
+  "Groupremoved": "The group has been removed"
 }
